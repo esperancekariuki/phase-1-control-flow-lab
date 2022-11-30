@@ -105,6 +105,8 @@ tests fill in the picture of the goal we are trying to accomplish. They run
 mini-experiments on our code and help us better understand our code and the
 problem we are solving.
 
+\\\\\\\\\\\\\
+
 ## Instructions
 
 There are three functions that have been declared for you. You will need to fill in the following code:
